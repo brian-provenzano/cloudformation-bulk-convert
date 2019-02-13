@@ -1,4 +1,4 @@
-## Clouformation template conversion (json to yaml) 
+## Cloudformation template conversion (json to yaml) 
 Quick script to bulk convert json CFN templates to yaml.  Uses [AWSLabs cfnflip](https://github.com/awslabs/aws-cfn-template-flip)
 
 ## Usage
